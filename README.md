@@ -1,9 +1,9 @@
-## Aplicación de comandos
+## Aplicación de tareas pendientes
 
-Este es el ejercicio del curso
+Aplicación de consola de lista de tareas del curso de Node.js
 
 
-Recuerden instalar los paquetes de node
+Instalar los paquetes de node:
 
 ```
 npm install
